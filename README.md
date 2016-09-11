@@ -17,9 +17,11 @@ along with XUnit test tests.
 1. To run test for a particular solution:
     1. Navigate to /test/LeetcodeSolutions.tests
     1. Run the below command (where "SolXXXProblemNameTest" is the test
-    class for the problem you want to test)
-    > dotnet test -class "SumitGouthaman.LeetcodeSolutions.UnitTests.SolXXXProblemNameTest"
+    class for the problem you want to test)  
 
+```
+dotnet test -class "SumitGouthaman.LeetcodeSolutions.UnitTests.SolXXXProblemNameTest"
+```
 ## Note
 1. Solutions here use C# features to keep solutions simple and succinct.
 Since LeetCode does not yet support a newer mono version, the C# 6
