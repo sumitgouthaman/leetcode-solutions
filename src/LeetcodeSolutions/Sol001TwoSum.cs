@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿// Link: https://leetcode.com/problems/two-sum/
+
+using System.Collections.Generic;
 
 namespace SumitGouthaman.LeetcodeSolutions
 {
